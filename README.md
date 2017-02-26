@@ -1,1 +1,3 @@
-git checkot master -msd gf
+
+Izmenim fail README.md sd -m 
+
