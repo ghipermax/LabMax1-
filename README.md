@@ -1,3 +1,3 @@
 
-Izmenim fail README.md sd -m 
+Izmenim fail README.md 
 
