@@ -1,1 +1,1 @@
-git checkot master -msd
+git checkout 
