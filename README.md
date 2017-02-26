@@ -1,1 +1,1 @@
-git checkot master -m
+git checkot master -msd
